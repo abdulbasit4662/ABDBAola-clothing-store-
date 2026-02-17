@@ -1,0 +1,203 @@
+/* page background */
+body {
+background-color: lightgray;
+font-family:arial;
+margin:0px;
+}
+/* search-container */
+.search-container {
+position:sticky;
+top:0;
+background-color:pink;
+padding:10px 0;
+z-index:1000;
+}
+#search {
+width:100px;
+padding:12px;
+font-size:16px;
+}
+
+/* header content */
+.header {
+background-image:url('https://iili.io/qJ5q53N.jpg');
+color:white;
+margin:0px;
+padding:10px;
+text-align:center;
+}
+
+/* heading */
+.heading {
+background-color:#FFE3FB
+color-
+text-align:center;
+padding:10px;
+border-radius:10px;
+}
+
+/* content */
+.content {
+background-image:url('https://iili.io/qJ5hmSR.webp');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+color: green;
+text-align:center;
+padding:80px 20px;
+border-radius:10x;
+}
+/* head */
+.head {
+background-image:url('https://iili.io/qJ5gz21.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:0px;
+color: white;
+margin:15px;
+}
+/* third head*/
+.third-head {
+background-image:url('https://iili.io/qJ5siMJ.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:0px;
+color: white;
+margin:15px;
+}
+/* forth head*/
+.forth-head {
+background-image:url('https://iili.io/qJ5D0ep.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:0px;
+color:white;
+margin:15px;
+}
+/* fifth head*/
+.fifth-head {
+background-image:url('https://iili.io/qJ7xCoF.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:10px;
+color:white;
+}
+/* sixth head*/
+.sixth-head {
+background-image:url('https://iili.io/qJ7HHej.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:10px;
+color: white;
+}
+/* seventh head*/
+.seventh-head {
+background-image:url('https://iili.io/qJ7Kn2I.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:10px;
+color: white;
+}
+/* eighth head*/
+.eighth-head {
+background-image:url('https://iili.io/qJ773jR.jpg');
+min-height:70vh;
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+text-align:center;
+padding:80px 20px;
+border-radius:10px;
+color: white;
+}
+
+/* h3 */
+.h3 {
+color:green;
+}
+/* PRODUCTS GRID */
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* PRODUCT CARD */
+.product {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* PRODUCT IMAGE */
+.product img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+/* price style*/
+.price {
+color:green;
+}
+
+/* Whatsapp buy button*/
+.buy-btn {
+display:inline-block;
+background-color:green;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+font-weight:bold;
+transition:o.3s;
+cursor:pointer;
+}
+.buy-btn:hover {
+background-color: bright-green;
+}
+/* footer */
+.footer {
+    background-color:pink;
+    color: white;
+    width: 100%;
+    padding: 50px 5%;
+    box-sizing: border-box;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+
+
