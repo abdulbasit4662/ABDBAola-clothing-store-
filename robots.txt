@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://abdulbasit4662.github.io/ABDBAola-clothing-store-/sitemap.xml
