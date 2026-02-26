@@ -204,9 +204,9 @@ background-color: bright-green;
     max-width: 1200px;
     margin: auto;
 }
-.subscribe-btn {
+subscribe-btn {
     width:100%;
-    background:pink;
+    background: orange;
     padding:10px;
     border-radius:10px;
     border:none;
