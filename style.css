@@ -191,6 +191,14 @@ cursor:pointer;
 .buy-btn:hover {
 background-color: bright-green;
 }
+
+.subscribe-btn {
+    width:100%;
+    background: orange;
+    padding:10px;
+    border-radius:10px;
+    border:none;
+}
 /* footer */
 .footer {
     background-color:pink;
@@ -203,14 +211,7 @@ background-color: bright-green;
 .footer-container {
     max-width: 1200px;
     margin: auto;
-}
-subscribe-btn {
-    width:100%;
-    background: orange;
-    padding:10px;
-    border-radius:10px;
-    border:none;
-}
+    }
 
 
 
