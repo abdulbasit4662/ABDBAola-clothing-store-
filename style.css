@@ -204,13 +204,13 @@ background-color: bright-green;
     max-width: 1200px;
     margin: auto;
 }
-.sub-btn {
-    width:100%;
-    background:pink;
-    padding:10px;
-    border-radius:10px;
+.sub-btn 
+    width:100%
+    background:pink
+    padding:10px
+    border-radius:10px
     border:none;
-}
+
 
 
 
