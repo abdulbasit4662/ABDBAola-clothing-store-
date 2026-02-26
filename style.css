@@ -199,19 +199,17 @@ background-color: bright-green;
     padding: 50px 5%;
     box-sizing: border-box;
 }
-button {
-    width:75%;
-    background:pink;
-    padding:10px:
-border-radius:10px;
-    border:none;
-    }
-
-
 
 .footer-container {
     max-width: 1200px;
     margin: auto;
+}
+button {
+    width:100%;
+    background:pink;
+    padding:10px;
+    border-radius:10px;
+    border:none;
 }
 
 
