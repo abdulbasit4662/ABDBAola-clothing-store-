@@ -17,6 +17,14 @@ width:100px;
 padding:12px;
 font-size:16px;
 }
+input { 
+    width:100%;
+    background:white;
+    padding:12px;
+    border-radius:15px;
+    box-shadow:1px solid #ddd;
+    margin:10px 0;
+}
 
 /* header content */
 .header {
@@ -191,6 +199,15 @@ background-color: bright-green;
     padding: 50px 5%;
     box-sizing: border-box;
 }
+button {
+    width:75%;
+    background:pink;
+    padding:10px:
+border-radius:10px;
+    border:none;
+    }
+
+
 
 .footer-container {
     max-width: 1200px;
